@@ -42,8 +42,8 @@ void usage()
 		<< "Usage" << endl
 		<< "$ append [input directory] [output filename] " << endl
 		<< endl
-		<< "Author: kaye"
-		<< "Email: kaaboaye(at)gmail.com"
+		<< "Author: kaye" << endl
+		<< "Email: kaaboaye(at)gmail.com" << endl
 		<< endl;
 }
 
