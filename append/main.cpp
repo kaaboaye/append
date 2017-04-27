@@ -37,7 +37,7 @@ int main(int argc, char *argv[], char *envp[])
 void usage()
 {
 	cout
-		<< "Append " << VERSION << endl
+		<< "Append version: " << VERSION << endl
 		<< endl
 		<< "Usage" << endl
 		<< "$ append [input directory] [output filename] " << endl
